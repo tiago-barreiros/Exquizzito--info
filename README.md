@@ -46,7 +46,7 @@ muito concreto: programação de dispositivos móveis com sistema operativo Andr
 
 ### Repositório GitHub
 
-Após a entrega deste projeto ficará público :  https://github.com/Human-Activity-Recognition
+Após a entrega deste projeto ficará público :  https://github.com/Exquizzito
 
 ## Aplicação
 
