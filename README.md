@@ -296,6 +296,7 @@ Após a entrega deste projeto ficará público :  https://github.com/Human-Activ
 # Orientação
 
 ## [Prof. Doutor Paulo Fazendeiro](https://www.ubi.pt/Pessoa/paulof)
+## [Pedro Inácio](https://www.di.ubi.pt/~inacio/)
 
 ## *Programação de Dispositivos Móveis* @[Universidade da Beira Interior](https://www.ubi.pt/).
 
